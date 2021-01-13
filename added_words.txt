@@ -102,9 +102,9 @@
 "experiance" : "experience",
 "extreem" : "extreme",
 
-"facinating" : "fascinating",
 "favor" : "favour",
 "favour" : "favor",
+"facinating" : "fascinating",
 "firey" : "fiery",
 "flourescent" : "fluorescent",
 "foriegn" : "foreign",

@@ -1,3 +1,7 @@
+This fork includes misspelled words (from https://en.wikipedia.org/wiki/Commonly_misspelled_English_words) and some common British / US English alternative spellings.
+
+You probably just want to grab the update json files in the /lemmas directory.
+
 # ProcessWire Word Tools module 
 
 Currently focused on English language word functions including inflection and 

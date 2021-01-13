@@ -2,6 +2,8 @@ This fork includes misspelled words (from https://en.wikipedia.org/wiki/Commonly
 
 You probably just want to grab the update json files in the /lemmas directory.
 
+The list of words added are in the added_words.txt file if you just want to see what's changed.
+
 # ProcessWire Word Tools module 
 
 Currently focused on English language word functions including inflection and 
